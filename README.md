@@ -1,1 +1,1 @@
-# graphQL
+# Learning GraphQL
